@@ -1,0 +1,10 @@
+C:\Users\Alfred\source\repos\Brive.Bootcamp.DB\Brive.Bootcamp.DB\bin\Debug\Brive.Bootcamp.DB.dacpac
+C:\Users\Alfred\source\repos\Brive.Bootcamp.DB\Brive.Bootcamp.DB\bin\Debug\Brive.Bootcamp.DB.dll
+C:\Users\Alfred\source\repos\Brive.Bootcamp.DB\Brive.Bootcamp.DB\bin\Debug\Brive.Bootcamp.DB.pdb
+C:\Users\Alfred\source\repos\Brive.Bootcamp.DB\Brive.Bootcamp.DB\obj\Debug\Brive.Bootcamp.DB.sqlproj.AssemblyReference.cache
+C:\Users\Alfred\source\repos\Brive.Bootcamp.DB\Brive.Bootcamp.DB\obj\Debug\Model.xml
+C:\Users\Alfred\source\repos\Brive.Bootcamp.DB\Brive.Bootcamp.DB\obj\Debug\refactor.xml
+C:\Users\Alfred\source\repos\Brive.Bootcamp.DB\Brive.Bootcamp.DB\obj\Debug\postdeploy.sql
+C:\Users\Alfred\source\repos\Brive.Bootcamp.DB\Brive.Bootcamp.DB\obj\Debug\predeploy.sql
+C:\Users\Alfred\source\repos\Brive.Bootcamp.DB\Brive.Bootcamp.DB\obj\Debug\Brive.Bootcamp.DB.dll
+C:\Users\Alfred\source\repos\Brive.Bootcamp.DB\Brive.Bootcamp.DB\obj\Debug\Brive.Bootcamp.DB.pdb
