@@ -100,8 +100,7 @@ namespace Brive.Bootcamp.API.Controllers
         }
 
         [HttpDelete]
-        [Route("{id}")]
-        public ActionResult<List<Person>> deletedPerson2(int id)
+        public ActionResult<List<Person>> deletedPerson2([FromBody] int id)
         {
             try
             {
